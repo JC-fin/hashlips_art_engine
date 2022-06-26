@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Tetrachungus #2",
+    "description": "The first known depictions of Tetrachungus",
+    "image": "ipfs://QmX9mRVD2CDXsBnEaGqfMrKgQop7kbep9WFRaAm8yA8cFx/2.png",
+    "dna": "ebcb4726cadc02d1cb524782020b43de924b1bd9",
+    "edition": 2,
+    "date": 1655894008383,
+    "attributes": [
+      {
+        "trait_type": "Tetra",
+        "value": "Tetrachungus"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Tetrachungus #1",
+    "description": "The first known depictions of Tetrachungus",
+    "image": "ipfs://QmX9mRVD2CDXsBnEaGqfMrKgQop7kbep9WFRaAm8yA8cFx/1.png",
+    "dna": "f6fc7427a060c512e84bcfe136619899b26a727c",
+    "edition": 1,
+    "date": 1655894008469,
+    "attributes": [
+      {
+        "trait_type": "Tetra",
+        "value": "Orca"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

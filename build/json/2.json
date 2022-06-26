@@ -1,0 +1,15 @@
+{
+  "name": "Tetrachungus #2",
+  "description": "The first known depictions of Tetrachungus",
+  "image": "ipfs://QmX9mRVD2CDXsBnEaGqfMrKgQop7kbep9WFRaAm8yA8cFx/2.png",
+  "dna": "ebcb4726cadc02d1cb524782020b43de924b1bd9",
+  "edition": 2,
+  "date": 1655894008383,
+  "attributes": [
+    {
+      "trait_type": "Tetra",
+      "value": "Tetrachungus"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
